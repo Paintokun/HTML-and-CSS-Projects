@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title>Robin the Dog.</title>
+		<meta charset="utf-8"
+	<body>
+	<title>This is my dog Robin</title>
+	<img src="Images/my.doggo.html"></img>
+	</body>
+</html>
